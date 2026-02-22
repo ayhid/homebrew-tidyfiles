@@ -4,7 +4,7 @@ class Tidyfiles < Formula
   desc "AI-powered file organizer using rules + LLM classification"
   homepage "https://github.com/ayhid/tidyfiles"
   url "https://github.com/ayhid/tidyfiles/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "7ef875100a0f1977b7d8d1859f8acd1601d3f0b13d278170afbec8340bb486ec"
+  sha256 "b20bf12627d3f9033779162624db848610d2783d4de8de8c5ca9ad5e0bfba763"
   license "MIT"
 
   depends_on "python@3.13"
